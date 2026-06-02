@@ -17,6 +17,10 @@
 /.next/
 /out/
 
+# legacy local folder (app moved to repo root)
+260602. SNU/kyuri-portfolio/node_modules/
+260602. SNU/kyuri-portfolio/.next/
+
 # production
 /build
 
